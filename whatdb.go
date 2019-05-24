@@ -1,5 +1,5 @@
 //Package whatapi is a wrapper for the What.CD JSON API (https://github.com/WhatCD/Gazelle/wiki/JSON-API-Documentation).
-package whatapi
+package whatdb
 
 import (
 	"net/url"
