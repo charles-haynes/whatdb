@@ -6,6 +6,7 @@ import (
 
 	"github.com/charles-haynes/whatapi"
 	"github.com/jmoiron/sqlx"
+	_ "github.com/mattn/go-sqlite3"
 )
 
 //NewWhatAPI creates a new client for the What.CD API using the provided URL.
